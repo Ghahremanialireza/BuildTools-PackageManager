@@ -9,3 +9,6 @@ https://maven.apache.org/install.html
 
 # guide link for installing Nodejs nad NPM
 https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
+
+# install intelliJ
+sudo snap install intellij-idea-community --classic
